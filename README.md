@@ -24,7 +24,7 @@
 ## 💼 Professional Journey
 
 ### Senior Software Engineer @ ETS (Education Testing Service)
-**May 2024 - Present**
+**2024 - Present**
 
 > Transforming how millions of students take assessments globally
 
@@ -37,42 +37,42 @@
 
 ---
 
-### Senior Associate @ Xebia
-**2022 - April 2024**
+### Senior Developer @ UST Global
+**2022 - 2024**
 
-> Global IT consulting powerhouse
+> Global digital transformation leader
 
-**What I do:**
-- Built enterprise applications for Fortune 500 clients
-- Led full stack development using Java, Angular, AWS
-- Mentored junior developers and conducted technical code reviews
-- Implemented **microservices architecture** from scratch
+**What I did:**
+- Led a team of 5 developers on enterprise projects
+- Delivered 10+ successful client projects on time
+- Full stack development using Java, Angular, AWS
+- Established coding standards and best practices
 
 ---
 
-### Team Lead @ UST Global
-**February 2017 - 2022** *(5 years)*
+### Senior Associate @ Xebia
+**2020 - 2022**
 
-> Where my leadership journey began
+> Global IT consulting powerhouse
 
 **What I did:**
-- Led a team of 5 developers on multiple enterprise projects
-- Delivered 10+ successful client projects on time
-- Established coding standards and best practices
-- Hands-on development with Java, Angular, and AWS
-- Client communication and requirement gathering
+- Built enterprise applications for Fortune 500 clients
+- Full stack development using Java, Angular, AWS
+- Mentored junior developers and conducted code reviews
+- Implemented microservices architecture
 
 ---
 
 ### Software Engineer @ TIAA
-**2016 - 2017**
+**2017 - 2020**
 
-> My journey starts here
+> Where my professional journey began
 
 **What I did:**
 - Built Java-based financial applications
-- Learned the fundamentals of enterprise software development
+- Learned enterprise software development fundamentals
 - Collaborated with senior architects on system design
+- Gained strong foundation in banking domain
 
 ---
 
