@@ -82,14 +82,18 @@
   <img src="https://skillicons.dev/icons?i=java,python,typescript,javascript&theme=dark" alt="languages"/>
 </p>
 
-### Frontend Development
+### Frameworks & Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,react,html,css,bootstrap&theme=dark" alt="frontend"/>
+  <img src="https://skillicons.dev/icons?i=spring,angular,react,nodejs,express&theme=dark" alt="frameworks"/>
+  <img src="https://img.shields.io/badge-Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge-Microservices-2496ED?style=flat&logo=docker&logoColor=white"/>
 </p>
 
-### Backend & Database
+### Databases & Search
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,mysql,postgresql,mongodb&theme=dark" alt="backend"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark" alt="databases"/>
+  <img src="https://img.shields.io/badge-Amazon_DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge-OpenSearch-005EB8?style=flat"/>
 </p>
 
 ### Cloud & DevOps
@@ -101,11 +105,18 @@
 <p>
   <img src="https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Kimi_AI-2563EB?style=flat"/>
-  <img src="https://img.shields.io/badge/-LangChain-5B56FF?style=flat&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge-LangChain-5B56FF?style=flat&logo=chainlink&logoColor=white"/>
   <img src="https://img.shields.io/badge-LLM_Integration-FF6B6B?style=flat"/>
   <img src="https://img.shields.io/badge-Telegram_Bot-26A5E4?style=flat&logo=telegram&logoColor=white"/>
   <img src="https://img.shields.io/badge-FastAPI-009688?style=flat"/>
-  <img src="https://img.shields.io/badge-Python_Agent-3776AB?style=flat&logo=python&logoColor=white"/>
+</p>
+
+---
+
+### Domain Expertise
+<p>
+  <img src="https://img.shields.io/badge-Banking_%26_Finance-1E3A5F?style=flat"/>
+  <img src="https://img.shields.io/badge-Education_Technology-4CAF50?style=flat"/>
 </p>
 
 ---
@@ -162,8 +173,8 @@
   <a href="https://twitter.com/rishabh_khanna">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
   </a>
-  <a href="mailto:rishabh.khanna@ets.org">
-    <img src="https://img.shields.io/badge/Email-Work-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
+  <a href="mailto:rishabh-khanna@outlook.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="email"/>
   </a>
 </p>
 
