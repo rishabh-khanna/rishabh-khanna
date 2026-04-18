@@ -37,8 +37,21 @@
 
 ---
 
+### Senior Associate @ Xebia
+**2022 - April 2024**
+
+> Xebia is a global IT services and consulting company specializing in digital transformation.
+
+**Key Contributions:**
+- Developed enterprise applications for international clients
+- Led full stack development using Java, Angular, and AWS
+- Mentored junior team members and conducted code reviews
+- Implemented microservices architecture and CI/CD pipelines
+
+---
+
 ### Software Engineer @ UST Global
-**February 2017 - April 2024** *(7+ years)*
+**February 2017 - 2022**
 
 > UST Global is a leading digital technology services company.
 
@@ -47,6 +60,18 @@
 - Worked on cloud-native solutions using AWS
 - Collaborated with international clients on digital transformation projects
 - Participated in full SDLC from requirements to production deployment
+
+---
+
+### Software Engineer @ TIAA
+**Started Career Here**
+
+> TIAA is a leading financial services provider.
+
+**Key Contributions:**
+- Began professional journey as a software developer
+- Worked on Java-based enterprise applications
+- Gained foundational experience in full stack development
 
 ---
 
@@ -87,7 +112,8 @@
 
 ## 🎓 Education
 
-- **B.Tech in Computer Science** - College of Engineering, Trivandrum (CET)
+- **B.Tech in Computer Science** - NMIMS Mumbai (Shri Vile Parle Kelavani Mandal)
+- **Diploma in Computer Engineering** - CDAC Kharghar
 
 ---
 
