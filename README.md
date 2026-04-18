@@ -103,19 +103,16 @@
 
 ### AI & Agent Development (Learning)
 <p>
-  <img src="https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Kimi_AI-2563EB?style=flat"/>
-  <img src="https://img.shields.io/badge-LangChain-5B56FF?style=flat&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge-LLM_Integration-FF6B6B?style=flat"/>
-  <img src="https://img.shields.io/badge-Telegram_Bot-26A5E4?style=flat&logo=telegram&logoColor=white"/>
-  <img src="https://img.shields.io/badge-FastAPI-009688?style=flat"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat"/>
 </p>
 
 ---
 
 ### Domain Expertise
 <p>
-  <img src="https://img.shields.io/badge-Banking_%26_Finance-1E3A5F?style=flat"/>
+  <img src="https://img.shields.io/badge-Banking_Finance-1E3A5F?style=flat"/>
   <img src="https://img.shields.io/badge-Education_Technology-4CAF50?style=flat"/>
 </p>
 
@@ -151,7 +148,6 @@
 |---------|-------------|------|
 | telegram_kimi_bot | AI-powered Telegram bot with Kimi K2.5 | Python, OpenRouter, Telegram API |
 | my-agent | Reusable AI agent with multi-provider support | Python, OpenAI, Groq, xAI |
-| agent-factory | Exploring scalable agent frameworks | FastAPI, TypeScript, Next.js |
 
 ---
 
