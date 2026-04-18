@@ -1,9 +1,9 @@
 # 👋 Hello, I'm Rishabh Khanna
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rishabh-khanna&style=flat-square&color=6366f1&label=Profile+Views" alt="profile views"/>
-  <img src="https://img.shields.io/badge/Years+of+Experience-8%2B-blue" alt="experience"/>
-  <img src="https://img.shields.io/badge-Currently+Working-ETS-bluegreen" alt="current"/>
+  <img src="https://komarev.com/ghpvc/?username=rishabh-khanna&style=flat-square&color=6366f1" alt="profile views"/>
+  <img src="https://img.shields.io/badge/Experience-8%2B_years-blue" alt="experience"/>
+  <img src="https://img.shields.io/badge/Currently_at-ETS-blue" alt="current"/>
 </p>
 
 ---
@@ -11,184 +11,158 @@
 ## 💼 About Me
 
 <p align="center">
-  <b>Senior FullStack Developer</b> | <b>AI & Agent Engineering Enthusiast</b>
+  <b>Senior FullStack Developer</b> | <b>AI Agent Builder</b> | <b>Tech Enthusiast</b>
 </p>
 
-- 🔔 **Currently Open to New Opportunities**
-- 💼 **8+ Years of Experience** in enterprise software development
-- 🎯 **Full Stack Independent Developer** - End-to-end ownership from design to deployment
-- 🌱 **Transitioning into AI Engineering** - Building AI agents and exploring LLMs
-- 📍 Based in **Mumbai, India**
+- 💼 **8+ Years** building enterprise-grade applications
+- 🎯 **Full Stack Independent** - From design to deployment
+- 🌱 **Building AI Agents** - Exploring LLMs and agentic patterns
+- 📍 Mumbai, India
 
 ---
 
-## 💼 Professional Experience
+## 💼 Professional Journey
 
 ### Senior Software Engineer @ ETS (Education Testing Service)
 **May 2024 - Present**
 
-> ETS is a global leader in educational assessment and testing, serving millions of students worldwide.
+> Transforming how millions of students take assessments globally
 
-**Key Contributions:**
-- Led development of enterprise-grade assessment platforms
-- Architected scalable microservices using Java and Angular
-- Implemented CI/CD pipelines on AWS cloud infrastructure
-- Mentored junior developers and conducted technical reviews
+**What I do:**
+- Architect and build **microservices** using Java Spring Boot
+- Develop scalable **Angular** frontends for assessment platforms
+- Design **AWS Lambda** functions for serverless computing
+- Build **CI/CD pipelines** on AWS for automated deployments
+- Lead technical architecture decisions for high-traffic systems
 
 ---
 
 ### Senior Associate @ Xebia
 **2022 - April 2024**
 
-> Xebia is a global IT services and consulting company specializing in digital transformation.
+> Global IT consulting powerhouse
 
-**Key Contributions:**
-- Developed enterprise applications for international clients
-- Led full stack development using Java, Angular, and AWS
-- Mentored junior team members and conducted code reviews
-- Implemented microservices architecture and CI/CD pipelines
+**What I do:**
+- Built enterprise applications for Fortune 500 clients
+- Led full stack development using Java, Angular, AWS
+- Mentored junior developers and conducted technical code reviews
+- Implemented **microservices architecture** from scratch
 
 ---
 
-### Software Engineer @ UST Global
-**February 2017 - 2022**
+### Team Lead @ UST Global
+**February 2017 - 2022** *(5 years)*
 
-> UST Global is a leading digital technology services company.
+> Where my leadership journey began
 
-**Key Contributions:**
-- Developed and maintained multiple enterprise applications
-- Worked on cloud-native solutions using AWS
-- Collaborated with international clients on digital transformation projects
-- Participated in full SDLC from requirements to production deployment
+**What I did:**
+- Led a team of 5 developers on multiple enterprise projects
+- Delivered 10+ successful client projects on time
+- Established coding standards and best practices
+- Hands-on development with Java, Angular, and AWS
+- Client communication and requirement gathering
 
 ---
 
 ### Software Engineer @ TIAA
-**Started Career Here**
+**2016 - 2017**
 
-> TIAA is a leading financial services provider.
+> My journey starts here
 
-**Key Contributions:**
-- Began professional journey as a software developer
-- Worked on Java-based enterprise applications
-- Gained foundational experience in full stack development
+**What I did:**
+- Built Java-based financial applications
+- Learned the fundamentals of enterprise software development
+- Collaborated with senior architects on system design
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Programming Languages
+### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,typescript,javascript&theme=dark" alt="languages"/>
+  <img src="https://skillicons.dev/icons?i=java,python,typescript,javascript&theme=dark"/>
 </p>
 
-### Frameworks & Backend
+### Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,angular,react,nodejs,express&theme=dark" alt="frameworks"/>
-  <img src="https://img.shields.io/badge-Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge-Microservices-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=spring,angular,react,nodejs&theme=dark"/>
 </p>
 
-### Databases & Search
+### Cloud & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark" alt="databases"/>
-  <img src="https://img.shields.io/badge-Amazon_DynamoDB-4053D6?style=flat&logo=amazon-dynamodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge-OpenSearch-005EB8?style=flat"/>
-</p>
-
-### Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git&theme=dark" alt="cloud"/>
-</p>
-
-### AI & Agent Development (Learning)
-<p>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat"/>
-</p>
-
----
-
-### Domain Expertise
-<p>
-  <img src="https://img.shields.io/badge-Banking_Finance-1E3A5F?style=flat"/>
-  <img src="https://img.shields.io/badge-Education_Technology-4CAF50?style=flat"/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,mysql,mongodb&theme=dark"/>
 </p>
 
 ---
 
 ## 🎓 Education
 
-- **B.Tech in Computer Science** - NMIMS Mumbai (Shri Vile Parle Kelavani Mandal)
+- **B.Tech in Computer Science** - NMIMS Mumbai
 - **Diploma in Computer Engineering** - CDAC Kharghar
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishabh-khanna&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&count_private=true" height="180" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh-khanna&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117" height="180" alt="languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rishabh-khanna&show_icons=true&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabh-khanna&layout=compact&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117" height="180"/>
 </p>
 
 ---
 
-## 🌱 Current Learning & Projects
+## 🌱 AI Journey
 
-### AI Agent Development
-- Building AI-powered Telegram bots using Kimi K2.5, OpenAI, and Groq
-- Developing reusable Python agent frameworks
-- Exploring Model Context Protocol (MCP)
-- Learning LangChain and agentic AI patterns
+Currently exploring:
+- Building AI-powered Telegram bots
+- Working with OpenAI, Groq, and xAI APIs
+- Learning about LLM integration and agent patterns
+- Python for AI/ML development
 
-### Recent Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| telegram_kimi_bot | AI-powered Telegram bot with Kimi K2.5 | Python, OpenRouter, Telegram API |
-| my-agent | Reusable AI agent with multi-provider support | Python, OpenAI, Groq, xAI |
+### My AI Projects
+- **telegram_kimi_bot** - Bot powered by Kimi K2.5
+- **my-agent** - Reusable Python agent framework
 
 ---
 
 ## 🎯 What I'm Looking For
 
-- **AI Engineering Roles** - Building intelligent agents and LLM applications
-- **Senior FullStack Positions** - Architecture, leadership, and hands-on development
-- **Cloud & DevOps Roles** - Building scalable systems on AWS
-- **Remote & Hybrid Opportunities** - Open to flexible work arrangements
+- AI Engineering Roles
+- Senior FullStack Positions
+- Cloud Architecture Roles
+- Remote & Hybrid Opportunities
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/r1shabhkhanna">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="linkedin"/>
   </a>
   <a href="mailto:rishabh-khanna@outlook.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="email"/>
+    <img src="https://img.shields.io/badge/Email-outlook-0078D4?style=for-the-badge" alt="email"/>
   </a>
 </p>
 
 ---
 
-## 💡 Key Strengths
+## 💡 Why I Stand Out
 
 | | |
 |---|---|
-| ✅ **End-to-End Ownership** | Independent development from requirements to production |
-| ✅ **Problem Solving** | Complex problem analysis and elegant solution design |
-| ✅ **Code Quality** | Clean, maintainable, well-documented code |
-| ✅ **Continuous Learning** | Actively learning AI/ML and agentic technologies |
-| ✅ **Team Collaboration** | Clear communication and technical mentorship |
+| 🎯 **Architecture Skills** | Design scalable microservice systems |
+| 👥 **Team Leadership** | Led teams of 5+ developers at UST |
+| ☁️ **Cloud Expert** | AWS Lambda, EC2, S3, CI/CD pipelines |
+| 🔄 **End-to-End** | Own the full development lifecycle |
+| 📈 **Continuous Growth** | Now building AI agents! |
 
 ---
 
 <div align="center">
 
-### 🚀 "The best way to predict the future is to create it."
+### 🚀 "Every line of code is a step forward"
 
-*Open to new opportunities. Let's connect and build something amazing together!*
+*Let's connect and build something amazing!*
 
 </div>
